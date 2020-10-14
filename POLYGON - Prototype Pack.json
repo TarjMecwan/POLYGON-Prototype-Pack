@@ -1,0 +1,35 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "POLYGON - Prototype Pack",
+      "message": {
+        "embeds": [
+          {
+            "title": "POLYGON - Prototype Pack | 3D Exterior | Unity Asset Store",
+            "description": "A low poly Prototype asset pack of props, Icons, Characters, Static Character poses and environment assets to create a Prototype or Grey box for your next game. Featuring heaps of cool diagnostic assets, this pack is a must for all your prototypes. Communicate design decisions with your team using the included notes and markers. Try out ideas quickly using the POLYGON style speed build blocks and primitives.",
+            "color": 65307,
+            "fields": [
+              {
+                "name": "Check out the link below to find more information:",
+                "value": "https://assetstore.unity.com/packages/3d/props/exterior/polygon-prototype-pack-137126?aid=1011leVbt&utm_source=aff"
+              }
+            ],
+            "author": {
+              "name": "Massey Game Jam Assets",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "footer": {
+              "text": "MasseyGameJam.Com",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "timestamp": "2020-10-14T00:56:00.000Z",
+            "image": {
+              "url": "https://assetstorev1-prd-cdn.unity3d.com/key-image/9c31dcfa-ccc5-47b6-b63e-024946399db6.png"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
